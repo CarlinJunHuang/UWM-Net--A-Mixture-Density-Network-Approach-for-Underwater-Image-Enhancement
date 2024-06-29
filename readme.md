@@ -18,6 +18,8 @@ UWM-Net using only 18 pairs of underwater image data achieves
 highly competitive results in terms of 3 metrics compared with
 advanced models.
 
+![alt text](/images/CAI2024_Poster.png)
+
 ## Run the code
 To run this code install requirements 
 ```bash
